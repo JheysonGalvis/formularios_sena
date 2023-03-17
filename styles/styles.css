@@ -1,3 +1,8 @@
 body{
     background-color: aquamarine;
 }
+.botonsito{
+    background-color: black;
+    color: white;
+    font-family: 'Prompt', sans-serif;
+}
